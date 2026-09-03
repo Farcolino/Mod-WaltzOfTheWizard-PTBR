@@ -1,6 +1,6 @@
-==========================================================================
+=
   WALTZ OF THE WIZARD  ·  MOD DE VOZ EM PORTUGUES
-==========================================================================
+=
 
   Lance feiticos falando em portugues.
 
@@ -148,9 +148,9 @@
       "ei caveira"
       "me deixa em paz"
 
-==========================================================================
+=
   COMO FUNCIONA A ESCALA
-==========================================================================
+=
 
   Todo feitico de medida aceita intensidade. A mesma frase, mais forte:
 
@@ -161,18 +161,18 @@
 
   Vale para tamanho, velocidade, forca e peso.
 
-==========================================================================
+=
   FEITICOS EM VOCE MESMO
-==========================================================================
+=
 
   Troque o alvo por "meu corpo":
 
       "deixe meu corpo maior"        "deixe meu corpo mais rapido"
       "deixe meu corpo saudavel"     "deixe meu corpo leve"
 
-==========================================================================
+=
   O QUE MAIS VEM TRADUZIDO
-==========================================================================
+=
 
   · a interface, os menus e as conquistas
   · as dicas, os tutoriais e as charadas do Skully
@@ -186,9 +186,9 @@
   mod criado por Farcos
 --------------------------------------------------------------------------
 
-==========================================================================
+=
   Como Instalar o Mod?
-==========================================================================
+=
    Vai precisar Baixar o MELONLOADER pois ele so funciona através dele
    
    1. Baixe o [MELONLOADER](https://melonwiki.xyz) pelo link
