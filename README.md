@@ -199,5 +199,5 @@
 
   Comesse a jogar e se divirta!!
   
-  (https://youtu.be/qegcLs6ummU)[Video Gamaplay no Youtube]
-  (https://youtu.be/-iMjn0nFmR0)[Video como Instalar o Mod] 
+  [Video Gamaplay no Youtube](https://youtu.be/qegcLs6ummU)
+  [Video como Instalar o Mod](https://youtu.be/-iMjn0nFmR0)
