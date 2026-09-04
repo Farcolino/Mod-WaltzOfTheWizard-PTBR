@@ -198,3 +198,6 @@
    5. Abra o mod na sua versão atual e avance até o final. Assim que terminar, abra o jogo ele ja vai estar com as dublagem, texturas e o Vosk em português.
 
   Comesse a jogar e se divirta!!
+  
+  (https://youtu.be/qegcLs6ummU)[Video Gamaplay no Youtube]
+  (https://youtu.be/-iMjn0nFmR0)[Video como Instalar o Mod] 
